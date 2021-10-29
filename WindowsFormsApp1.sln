@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinasi", "WindowsFormsApp3\HesapMakinasi.csproj", "{4495AE2C-79C5-4CD9-A379-EAC6126360B2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RadioButtonApp", "RadioButtonApp", "{C4A48552-3EFD-4ADF-B040-44E348693B66}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hesap Makinasi", "Hesap Makinasi", "{DA8A8023-5297-4E67-A38B-6EBC00116338}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonApp", "RadioButtonApp\RadioButtonApp.csproj", "{E9C86BC6-21DB-4414-A6EA-3B747977006B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4495AE2C-79C5-4CD9-A379-EAC6126360B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4495AE2C-79C5-4CD9-A379-EAC6126360B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4495AE2C-79C5-4CD9-A379-EAC6126360B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4495AE2C-79C5-4CD9-A379-EAC6126360B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C86BC6-21DB-4414-A6EA-3B747977006B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C86BC6-21DB-4414-A6EA-3B747977006B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C86BC6-21DB-4414-A6EA-3B747977006B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C86BC6-21DB-4414-A6EA-3B747977006B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4495AE2C-79C5-4CD9-A379-EAC6126360B2} = {DA8A8023-5297-4E67-A38B-6EBC00116338}
+		{E9C86BC6-21DB-4414-A6EA-3B747977006B} = {C4A48552-3EFD-4ADF-B040-44E348693B66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBC8C117-ADF6-4023-8B41-EFC5911D39E9}
