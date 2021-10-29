@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "WindowsFormsApp3\WindowsFormsApp3.csproj", "{4495AE2C-79C5-4CD9-A379-EAC6126360B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinasi", "WindowsFormsApp3\HesapMakinasi.csproj", "{4495AE2C-79C5-4CD9-A379-EAC6126360B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hesap Makinasi", "Hesap Makinasi", "{DA8A8023-5297-4E67-A38B-6EBC00116338}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4495AE2C-79C5-4CD9-A379-EAC6126360B2} = {DA8A8023-5297-4E67-A38B-6EBC00116338}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBC8C117-ADF6-4023-8B41-EFC5911D39E9}
