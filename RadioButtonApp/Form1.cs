@@ -14,7 +14,7 @@ namespace RadioButtonApp
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent( );
         }
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
