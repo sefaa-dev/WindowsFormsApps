@@ -18,7 +18,7 @@ namespace RadioButtonApp
         }
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            textBox1.TextAlign = HorizontalAlignment.Left;
+            textBox1.TextAlign=HorizontalAlignment.Left;
         }
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
