@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CheckedListBoxApp", "Checke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İs Basvuru Formu (CheckedListBox)", "İs Basvuru Formu (CheckedListBox)\İs Basvuru Formu (CheckedListBox).csproj", "{79FFEAC2-7DE3-4FC5-92D1-60FA77735848}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console Apps", "Console Apps", "{29BDAE5E-E249-43C7-8DCB-0DA4DA8C223A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{ED984D0A-1416-4EAA-9D17-6E8649403C19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{79FFEAC2-7DE3-4FC5-92D1-60FA77735848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79FFEAC2-7DE3-4FC5-92D1-60FA77735848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79FFEAC2-7DE3-4FC5-92D1-60FA77735848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED984D0A-1416-4EAA-9D17-6E8649403C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED984D0A-1416-4EAA-9D17-6E8649403C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED984D0A-1416-4EAA-9D17-6E8649403C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED984D0A-1416-4EAA-9D17-6E8649403C19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E9C86BC6-21DB-4414-A6EA-3B747977006B} = {C4A48552-3EFD-4ADF-B040-44E348693B66}
 		{79FFEAC2-7DE3-4FC5-92D1-60FA77735848} = {E5124C90-9E9E-4926-A13C-A8B28F56F0A8}
+		{ED984D0A-1416-4EAA-9D17-6E8649403C19} = {29BDAE5E-E249-43C7-8DCB-0DA4DA8C223A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBC8C117-ADF6-4023-8B41-EFC5911D39E9}
