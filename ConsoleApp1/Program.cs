@@ -16,7 +16,7 @@ namespace ConsoleApp1
             //Console.Write("Öğrenci No:{0} ADI:{1} SOYAD:{2}",ogrno, ad, soyad);
             //Console.ReadKey();
 
-            string tcno = "12345678412";
+            string tcno = "1234578412";
             string adsoyad = "Sefa Yılmaz";
             string gorevi = "Satın Alma Müdürü";
             double maas = 2560.86;
