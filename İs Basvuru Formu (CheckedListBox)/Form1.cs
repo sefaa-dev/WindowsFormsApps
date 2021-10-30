@@ -15,7 +15,7 @@ namespace İs_Basvuru_Formu__CheckedListBox_
         public Form1()
         {
             InitializeComponent();
-            string[] diller = { "Türkçe", "İngilizce", "Almanca", "Arapça", "Fransızca", "Çince", "İtalyanca", "İspanyolca" };
+            string[] diller = { "Türkçe", "İngilizce", "Almanca", "Arapça", "Fransızca", "Çince", "İtalyanca", "İspanyolca", "Farsça" };
             checkedListBox1.Items.AddRange(diller);
             checkedListBox1.MultiColumn = true;
             checkedListBox1.CheckOnClick = true;
