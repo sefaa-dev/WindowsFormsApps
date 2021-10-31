@@ -97,8 +97,38 @@ namespace ConsoleApp1
             //    } 
             //}
             //Console.ReadKey();
+            //*********************************************************************************************
 
-            
+
+            ////Switch - Case
+
+            //char secim;
+            //Console.WriteLine("1- Batı Karedeniz Turu");
+            //Console.WriteLine("2- İç Anadolu Turu");
+            //Console.WriteLine("Seçiminizi Yapınız [1,2]?");
+            //secim = Convert.ToChar(Console.ReadLine());
+            //switch (secim)
+            //{
+            //    case '1':
+            //        Console.WriteLine("Batı Karadeniz Turu");
+            //        Console.WriteLine("Tarih Aralığı:30.01.2017 - 02.02.2017");
+            //        Console.WriteLine("Karabük ,Kastamonu, Sinop, Bartin");             
+            //        break;
+
+            //       case '2':
+            //        Console.WriteLine("İç Anadolu Turu");
+            //        Console.WriteLine("Tarih Aralığı:01.02.2017 - 03.02.2017");
+            //        Console.WriteLine("Ankara ,Konya, Eskişehir");
+            //        break;
+            //    default:
+            //        Console.WriteLine("1,2 dışında hatalı seçim yaptınız !!");
+            //        break;
+            //}
+            //Console.ReadKey();
+
+
+
+
 
 
 
