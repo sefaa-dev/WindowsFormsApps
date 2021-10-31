@@ -41,6 +41,16 @@ namespace ConsoleApp1
             //Console.ReadKey();
             //*********************************************************************************************
 
+            ////CONSTANT ((SABİT))
+            ////herhangi bir ismin önünde yer aldığında o isim artık değiştirilemiyor,sabitt
+            //const double pi = 3.14;
+            //double yaricap, alan;
+            //Console.Write("Yarıçap değerini giriniz: ");
+            //yaricap = Convert.ToDouble(Console.ReadLine());
+            //alan = pi * (yaricap * yaricap);
+            //Console.Write("Alan: {0}", alan);
+            //Console.ReadKey();
+
            
 
 
