@@ -13,7 +13,7 @@ namespace ConsoleApp1
             ///STRİNG BİRLEŞTİRME///
 
             //string ogrno = "58";
-            //string ad = "sefa";
+            //string ad = "sefaa";
             //string soyad = "yılmaz";
             //Console.Write("Öğrenci No:{0} ADI:{1} SOYAD:{2}",ogrno, ad, soyad);
             //Console.ReadKey();
