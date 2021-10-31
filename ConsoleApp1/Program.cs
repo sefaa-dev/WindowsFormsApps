@@ -42,6 +42,7 @@ namespace ConsoleApp1
             //*********************************************************************************************
 
             ////CONSTANT ((SABİT))
+
             ////herhangi bir ismin önünde yer aldığında o isim artık değiştirilemiyor,sabitt
             //const double pi = 3.14;
             //double yaricap, alan;
@@ -50,8 +51,58 @@ namespace ConsoleApp1
             //alan = pi * (yaricap * yaricap);
             //Console.Write("Alan: {0}", alan);
             //Console.ReadKey();
+            //*********************************************************************************************
 
-           
+            //İF - ELSE
+
+            //double sayi1, sayi2, sonuc;
+            //char secim;
+
+
+            //while (true)
+            //{
+
+            //    Console.WriteLine(" ");
+            //    Console.Write("1. sayıyı giriniz: ");
+            //    sayi1 = Convert.ToDouble(Console.ReadLine());
+            //    Console.Write("2. sayıyı giriniz: ");
+            //    sayi2 = Convert.ToDouble(Console.ReadLine());
+
+            //    Console.WriteLine("1-Toplama 2-Çıkarma 3-Çarpma 4-Bölme Seçimini giriniz: ");
+
+            //    secim = Convert.ToChar(Console.ReadLine());
+
+            //    if (secim == '1')
+            //    {
+            //        sonuc = sayi1 + sayi2;
+            //        Console.WriteLine("Toplama sonucu: {0}", sonuc);
+            //    }
+            //    if (secim == '2')
+            //    {
+            //        sonuc = sayi1 - sayi2;
+            //        Console.WriteLine("Çıkarma sonucu: {0}", sonuc);
+
+            //    }
+            //    if (secim == '3')
+            //    {
+            //        sonuc = sayi1 * sayi2;
+            //        Console.WriteLine("Çarpımın sonucu: {0}", sonuc);
+
+            //    }
+            //    if (secim == '4')
+            //    {
+            //        sonuc = sayi1 / sayi2;
+            //        Console.WriteLine("Bölümün sonucu: {0}", sonuc);
+
+            //    } 
+            //}
+            //Console.ReadKey();
+
+            
+
+
+
+
 
 
 
