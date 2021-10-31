@@ -100,7 +100,7 @@ namespace ConsoleApp1
             //*********************************************************************************************
 
 
-            ////Switch - Case
+            ////SWİTCH - CASE
 
             //char secim;
             //Console.WriteLine("1- Batı Karedeniz Turu");
@@ -129,7 +129,7 @@ namespace ConsoleApp1
             //*********************************************************************************************
 
 
-            //While
+            //WHİLE
 
             //int x = 1;
             //while (x <= 100)
@@ -156,12 +156,69 @@ namespace ConsoleApp1
             //    sayac++;
             //}
             //ortalama = toplam / adet;
-            
-            
+
+
             //Console.Write("Sayıların Ortalaması:{0}", ortalama);
 
             //Console.ReadKey();
+            //*********************************************************************************************
 
+
+            ////DO - WHİLE
+
+            //string kulAd = "admin", kulSifre = "123";
+            //string kullaniciAd, kullaniciSifre;
+            //int hak = 3;
+            //do
+            //{
+            //    Console.Write("Kullanıcı adını giriniz? ");
+            //    kullaniciAd = Console.ReadLine();
+            //    Console.Write("Şifreniz giriniz? ");
+            //    kullaniciSifre = Console.ReadLine();
+
+            //    if (kullaniciAd==kulAd && kullaniciSifre==kulSifre)
+            //    {
+            //        Console.Write("Hoşgeldiniz...");
+            //    }
+            //    else
+            //    {
+            //        hak--;
+            //        if (hak == 0)
+            //        {
+            //            Console.Write("3 tür kullanıcı adı ve şifre giremediniz. Müşterii hizmetlerini arayınız");
+            //        }
+            //    }
+            //} while ((kullaniciAd != kulAd || kullaniciSifre != kulSifre) && hak != 0);
+            //Console.ReadKey();
+
+            //Random rnd = new Random();
+            //int uretilenSayi = rnd.Next(20, 35);
+            //int sayi, hak = 50;
+
+            //do
+            //{
+            //    Console.Write("Bir tahminde bulunun? ");
+            //    sayi = Convert.ToInt32(Console.ReadLine());
+            //    hak--;
+            //    if (sayi == uretilenSayi)
+            //    {
+            //        Console.Write("Tebrikler...");
+            //    }
+            //    else if(sayi < uretilenSayi)
+            //    {
+            //        Console.Write("Sayı Büyütünüz!");
+            //    }
+            //    else if(sayi > uretilenSayi)
+            //    {
+            //        Console.Write("Sayıyı Küçültünüz");
+            //    }
+            //    if (hak == 0)
+            //    {
+            //        Console.Write("Hakkınız Tükenmiştir!");
+            //    }
+
+            //} while (sayi != uretilenSayi && hak != 0);
+            //Console.ReadKey();
 
 
 
