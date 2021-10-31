@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             ///STRİNG BİRLEŞTİRME///
-            
+
             //string ogrno = "58";
             //string ad = "sefa";
             //string soyad = "yılmaz";
@@ -41,7 +41,7 @@ namespace ConsoleApp1
             //Console.ReadKey();
             //*********************************************************************************************
 
-
+           
 
 
 
