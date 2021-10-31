@@ -144,6 +144,23 @@ namespace ConsoleApp1
             //}
             //Console.ReadKey();
 
+            //int sayac = 1, adet = 0, sayi = 0;
+            //double ortalama = 0, toplam = 0;
+            //Console.Write("Kaç adet sayı gireceksin? ");
+            //adet = Convert.ToInt32(Console.ReadLine());
+            //while (sayac<=adet)
+            //{
+            //    Console.Write("Sayı Giriniz? ");
+            //    sayi = Convert.ToInt32(Console.ReadLine());
+            //    toplam = toplam + sayi;
+            //    sayac++;
+            //}
+            //ortalama = toplam / adet;
+            
+            
+            //Console.Write("Sayıların Ortalaması:{0}", ortalama);
+            //Console.ReadKey();
+
 
 
 
