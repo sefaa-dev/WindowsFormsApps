@@ -159,6 +159,7 @@ namespace ConsoleApp1
             
             
             //Console.Write("Sayıların Ortalaması:{0}", ortalama);
+
             //Console.ReadKey();
 
 
