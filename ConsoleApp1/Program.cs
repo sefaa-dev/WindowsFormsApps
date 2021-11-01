@@ -232,7 +232,7 @@ namespace ConsoleApp1
             for (int j = 1; j <= 5; j++)
             {
                 Console.SetCursorPosition(6, j);
-                Console.Write("*");
+                Console.Write("* ");
 
             }
             for (int k = 18; k <= 26; k=k+2)
