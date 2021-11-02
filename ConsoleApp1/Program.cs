@@ -231,7 +231,7 @@ namespace ConsoleApp1
             //}
             //for (int j = 1; j <= 5; j++)
             //{
-            //    Console.SetCursorPosition(6, j);
+            //    Console.SetCursorPosition(6,j);
             //    Console.Write("* ");
 
             //}
