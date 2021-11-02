@@ -226,7 +226,7 @@ namespace ConsoleApp1
 
             //for (int i = 0; i <= 12; i=i+2)
             //{
-            //    Console.SetCursorPosition(i, 0);
+            //    Console.SetCursorPosition(i,0);
             //    Console.Write("*");
             //}
             //for (int j = 1; j <= 5; j++)
