@@ -253,8 +253,129 @@ namespace ConsoleApp1
             //}
             //Console.ReadKey();
 
+            //*********************************************************************************************
+
+            ////RANDOM
+
+            //Random rnd = new Random();
+            //int üretilenSayi = rnd.Next();
+            //Console.Write("Üretilen sayi: {0}", üretilenSayi);
+            //Console.ReadKey();
+
+            //Random ogrenci = new Random();
+            //int s1 = ogrenci.Next(1, 50);
+            //int s2 = ogrenci.Next(1, 50);
+            //int s3 = ogrenci.Next(1, 50);
+            //int s4 = ogrenci.Next(1, 50);
+            //int s5 = ogrenci.Next(1, 50);
+            //Console.Write(" 1. Öğrenci: {0}\n 2. Öğrenci: {1}\n 3. Öğrenci: {2}\n 4. Öğrenci: {3}\n 5. Öğrenci: {4}\n", s1,s2,s3,s4,s5);
+            //Console.ReadKey();
+
+            //    Random rnd = new Random();
+            //    int rastgeleSayi = rnd.Next(10, 20);
+            //    Console.Write("Üretilen Sayı: {0}", rastgeleSayi);
+            //    int hak = 5;
+            //BASADON:
+            //    Console.Write("\nBir tahminde bulunun; ");
+            //    int tahmin = Convert.ToInt32(Console.ReadLine());
+
+            //    if (tahmin == rastgeleSayi)
+            //    {
+            //        Console.WriteLine("Tebrik Ederim...Puan: {0}",hak * 20);
+            //    }
+            //    else if (tahmin < rastgeleSayi)
+            //    {
+            //        hak--;
+            //        if (hak == 0)
+            //        {
+            //            Console.WriteLine("Kaybbettiniz..");
+            //        }
+            //        else
+            //        {
+            //            Console.WriteLine("Tahmininizi Büyütünüz");
+            //            goto BASADON;
+            //        }
+            //    }
+            //    else if (tahmin > rastgeleSayi)
+            //    {
+            //        hak--;
+            //        if (hak == 0)
+            //        {
+            //            Console.WriteLine("Kaybettiniz..");
+            //        }
+            //        else
+            //        {
+            //            Console.WriteLine("Tahminizi Küçültünüz");
+            //            goto BASADON;
+            //        }
+            //    }
+            //    Console.ReadKey();
 
 
+            //*********************************************************************************************
+
+            ////DALLANMA
+
+            //BASADON:
+            //    Console.Clear();
+            //    Console.WriteLine("1. Yazılı Notunu Gir: ");
+            //    int y1 = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine("2. Yazılı Notunu Gir: ");
+            //    int y2 = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine("3. Yazılı Notunu Gir: ");
+            //    int y3 = Convert.ToInt32(Console.ReadLine());
+
+            //    int ort = (y1 + y2 + y3) / 3;
+            //    Console.WriteLine("ORTALAMA: {0}",ort);
+            //SECIMYAP:
+            //    Console.WriteLine("Yeniden işlem yapmak ister misiniz? (e veya h)");
+            //    char secim = Convert.ToChar(Console.ReadLine());
+            //    if (secim == 'e' || secim == 'E')
+            //    {
+            //        goto BASADON;
+            //    }
+            //    else if (secim == 'h' || secim == 'H')
+            //    {
+            //        Console.WriteLine("İyi Günler..");
+            //    }
+            //    else
+            //    {
+            //        Console.Clear();
+            //        Console.WriteLine("Yanlış seçim yaptınız, tekrar deneyiniz");
+            //        goto SECIMYAP;
+            //    }
+            //    Console.ReadLine();
+
+            //*********************************************************************************************
+
+            ////DİZİLER
+
+            //int[] array1 = new int[12];
+
+            //int[] dzi = new int[5] { 1, 2, 3, 4, 5 };
+
+            //string[] gunler = new string[7];
+            //gunler[0] = "Pazartesi";
+            //gunler[1] = "Salı";
+            //gunler[2] = "Çarşamba";
+            //gunler[3] = "Perşembe";
+            //gunler[4] = "Cuma";
+            //gunler[5] = "Cumartesi";
+            //gunler[6] = "Pazar";
+            ////ya daaaa
+            //string[] gunlerr = new string[7] {"Pazartesi","salı","çarşamba"...}
+
+            //string[] ogrenciler = new string[5] { "101", "102", "103", "104", "105" };
+            //int[,] notlar = new int[5, 3] { { 50, 60, 70 }, { 50, 45, 84 }, { 87, 48, 95 }, { 15, 100, 98 }, { 15, 78, 98 } };
+            //int j = 0;
+
+            //for (int i = 0; i <=4; i++)
+
+            //{
+            //    double ort = (notlar[i, j] + notlar[i, j + 1] + notlar[i, j + 2]) / 3;
+            //    Console.WriteLine("Öğrenci No: {0} ---  Ort:{1}",ogrenciler[i],ort);
+            //}
+            //Console.ReadKey();
 
 
 
