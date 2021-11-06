@@ -341,7 +341,7 @@ namespace ConsoleApp1
             //    else
             //    {
             //        Console.Clear();
-            //        Console.WriteLine("Yanlış seçim yaptınız, tekrar deneyiniz");
+            //        Console.WriteLine("Yanlış seçim yaptınız, tekrar deneyiniz ");
             //        goto SECIMYAP;
             //    }
             //    Console.ReadLine();
