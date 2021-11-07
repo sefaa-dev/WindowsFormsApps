@@ -35,7 +35,7 @@ namespace KapsamliHesapMakinesi
                     dortİslem carpmaislemi = new dortİslem();
                     double carp = carpmaislemi.carp(sayi1, sayi2);
                     Console.WriteLine("ÇarpSonucu: {0}", carp);
-                    break;
+                    break; 
                 default:
                     Console.Clear();
                     Console.Write("Yanlış Seçim Yaptınız, Tekrar Deneyiniz");
