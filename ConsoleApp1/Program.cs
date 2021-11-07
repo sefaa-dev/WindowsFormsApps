@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Timers;
 
 namespace ConsoleApp1
 {
@@ -377,14 +378,19 @@ namespace ConsoleApp1
             //}
             //Console.ReadKey();
 
+            //*********************************************************************************************
 
+            ////TIMER
 
-
-
-
-
-
-
+        //    Timer zamanlayici = new Timer();
+        //    zamanlayici.Interval = 2000;
+        //    zamanlayici.Elapsed += zamanlanmısGorev;
+        //    zamanlayici.Start();
+        //    Console.ReadKey();
+        //}
+        //private static void zamanlanmısGorev(Object source, System.Timers.ElapsedEventArgs e)
+        //{
+        //    Console.WriteLine("Ömür hazinesinden 2 sn daha azaldı.");
 
 
 
