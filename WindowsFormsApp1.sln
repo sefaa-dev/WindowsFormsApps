@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenelTekrar", "GenelTekrar\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KapsamliHesapMakinesi", "KapsamliHesapMakinesi\KapsamliHesapMakinesi.csproj", "{0BB3E2E7-4E5E-4626-9EF8-EFCCC29486D5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ListBox", "ListBox", "{7536AE74-A2C9-47C1-9278-4C11B8E7479A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiTanimaListBox", "KisiTanimaListBox\KisiTanimaListBox.csproj", "{5D350184-150B-442E-B57E-304A85C0EA45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,10 @@ Global
 		{0BB3E2E7-4E5E-4626-9EF8-EFCCC29486D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BB3E2E7-4E5E-4626-9EF8-EFCCC29486D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BB3E2E7-4E5E-4626-9EF8-EFCCC29486D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D350184-150B-442E-B57E-304A85C0EA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D350184-150B-442E-B57E-304A85C0EA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D350184-150B-442E-B57E-304A85C0EA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D350184-150B-442E-B57E-304A85C0EA45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +72,7 @@ Global
 		{DC2360E6-5F6D-49D4-BA35-A09A504A9E61} = {29BDAE5E-E249-43C7-8DCB-0DA4DA8C223A}
 		{788133EB-5C08-4125-A8AE-F5BD2B64B24B} = {19996E36-2028-4B92-BA90-1903479D4F9C}
 		{0BB3E2E7-4E5E-4626-9EF8-EFCCC29486D5} = {29BDAE5E-E249-43C7-8DCB-0DA4DA8C223A}
+		{5D350184-150B-442E-B57E-304A85C0EA45} = {7536AE74-A2C9-47C1-9278-4C11B8E7479A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBC8C117-ADF6-4023-8B41-EFC5911D39E9}

@@ -85,9 +85,6 @@ namespace GenelTekrar
                 Console.WriteLine(rnd.Next(1, 50));
             }
 
-            */
-
-
 
             Console.Write("Uzunluk : ");
             int kenarUzunlugu = Convert.ToInt32(Console.ReadLine());
@@ -105,12 +102,17 @@ namespace GenelTekrar
                         Console.Write("*");
                     else
                         Console.Write(" ");
-
                 }
                 Console.WriteLine();
             }
             Console.ReadKey();
+
+
+            */
+
+
+
         }
     }
-    }
+}
 
