@@ -79,7 +79,7 @@ namespace KapsamliHesapMakinesi
             {
                 return (s1 * s2);
             }
-                      
+                       
         }
     }
 }
