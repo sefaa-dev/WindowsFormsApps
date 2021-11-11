@@ -87,7 +87,7 @@ namespace ComboBoxOrnek
                 comboBox3.Items.Add("1.0");
                 comboBox3.Items.Add("1.3");
                             
-            }
+            } 
         }
 
         private void button1_Click(object sender, EventArgs e)
