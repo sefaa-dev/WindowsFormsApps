@@ -19,13 +19,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vucut Kitle Indeksi", "Vucu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Genel Tekrar", "Genel Tekrar", "{19996E36-2028-4B92-BA90-1903479D4F9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenelTekrar", "GenelTekrar\GenelTekrar.csproj", "{788133EB-5C08-4125-A8AE-F5BD2B64B24B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenelTekrar", "GenelTekrar\GenelTekrar.csproj", "{788133EB-5C08-4125-A8AE-F5BD2B64B24B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KapsamliHesapMakinesi", "KapsamliHesapMakinesi\KapsamliHesapMakinesi.csproj", "{0BB3E2E7-4E5E-4626-9EF8-EFCCC29486D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KapsamliHesapMakinesi", "KapsamliHesapMakinesi\KapsamliHesapMakinesi.csproj", "{0BB3E2E7-4E5E-4626-9EF8-EFCCC29486D5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ListBox", "ListBox", "{7536AE74-A2C9-47C1-9278-4C11B8E7479A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiTanimaListBox", "KisiTanimaListBox\KisiTanimaListBox.csproj", "{5D350184-150B-442E-B57E-304A85C0EA45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ComboBox", "ComboBox", "{9CB70847-A2A4-41EA-AE5D-B65EBE05C987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxOrnek", "ComboBoxOrnek\ComboBoxOrnek.csproj", "{FE8CDA33-680D-457B-81FB-8ADD84E9C89C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +65,10 @@ Global
 		{5D350184-150B-442E-B57E-304A85C0EA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D350184-150B-442E-B57E-304A85C0EA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D350184-150B-442E-B57E-304A85C0EA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8CDA33-680D-457B-81FB-8ADD84E9C89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8CDA33-680D-457B-81FB-8ADD84E9C89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8CDA33-680D-457B-81FB-8ADD84E9C89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8CDA33-680D-457B-81FB-8ADD84E9C89C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +81,7 @@ Global
 		{788133EB-5C08-4125-A8AE-F5BD2B64B24B} = {19996E36-2028-4B92-BA90-1903479D4F9C}
 		{0BB3E2E7-4E5E-4626-9EF8-EFCCC29486D5} = {29BDAE5E-E249-43C7-8DCB-0DA4DA8C223A}
 		{5D350184-150B-442E-B57E-304A85C0EA45} = {7536AE74-A2C9-47C1-9278-4C11B8E7479A}
+		{FE8CDA33-680D-457B-81FB-8ADD84E9C89C} = {9CB70847-A2A4-41EA-AE5D-B65EBE05C987}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBC8C117-ADF6-4023-8B41-EFC5911D39E9}
