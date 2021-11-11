@@ -86,7 +86,7 @@ namespace ComboBoxOrnek
                 comboBox3.Items.Add("1.6 GLX");
                 comboBox3.Items.Add("1.0");
                 comboBox3.Items.Add("1.3");
-                          
+                           
             }
         }
 
