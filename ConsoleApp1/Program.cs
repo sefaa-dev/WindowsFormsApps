@@ -382,19 +382,44 @@ namespace ConsoleApp1
 
             ////TIMER
 
-        //    Timer zamanlayici = new Timer();
-        //    zamanlayici.Interval = 2000;
-        //    zamanlayici.Elapsed += zamanlanmısGorev;
-        //    zamanlayici.Start();
-        //    Console.ReadKey();
-        //}
-        //private static void zamanlanmısGorev(Object source, System.Timers.ElapsedEventArgs e)
-        //{
-        //    Console.WriteLine("Ömür hazinesinden 2 sn daha azaldı.");
+            //    Timer zamanlayici = new Timer();
+            //    zamanlayici.Interval = 2000;
+            //    zamanlayici.Elapsed += zamanlanmısGorev;
+            //    zamanlayici.Start();
+            //    Console.ReadKey();
+            //}
+            //private static void zamanlanmısGorev(Object source, System.Timers.ElapsedEventArgs e)
+            //{
+            //    Console.WriteLine("Ömür hazinesinden 2 sn daha azaldı.");
 
 
+            // int toplam = 0, adet = 0;
+            // for (int i = 1; i < 1001; i++)
+            // {
+            //     if ((i % 5 == 0) && (i % 7 != 0))
 
+            //     {
+            //         Console.WriteLine(i);
+            //         toplam += i;
+            //         adet++;
+            //     }
+            //}
+            // Console.WriteLine("{0} sayı bulundu",adet);
+            // Console.WriteLine("Toplamları = {0}",toplam);
 
+            // Console.ReadKey();
+
+            //int adet = 0;
+            //for (int i = 0; i <= 100; i += 5)
+            //{
+            //    if (adet % 6 == 0)
+            //        Console.WriteLine();
+            //    Console.Write("{0,4}", i);
+            //    adet++;
+
+            //}
+            //Console.WriteLine("\n");
+            //Console.ReadKey();
 
         }
     }
