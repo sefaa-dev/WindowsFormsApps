@@ -16,7 +16,7 @@ namespace KapsamliHesapMakinesi
             char dortislemsec = Convert.ToChar(Console.ReadLine());
             switch (dortislemsec)
             {
-                case '1':             
+                case '1':              
                     dortİslem toplamaislemi = new dortİslem();
                     double toplam = toplamaislemi.topla(sayi1, sayi2);
                     Console.WriteLine("Toplam Sonucu: {0}", toplam);
