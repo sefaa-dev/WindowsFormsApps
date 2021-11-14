@@ -417,9 +417,10 @@ namespace ConsoleApp1
             //    Console.Write("{0,4}", i);
             //    adet++;
 
+
             //}
             //Console.WriteLine("\n");
-            //Console.ReadKey();                    
+            //Console.ReadKey();                       
 
         }
     }
