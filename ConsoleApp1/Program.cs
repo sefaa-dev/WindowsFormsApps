@@ -422,6 +422,73 @@ namespace ConsoleApp1
             //Console.WriteLine("\n");
             //Console.ReadKey();                       
 
+            //int satir, sutun;
+            //Console.Write("Satir Sayisi: ");
+            //satir = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write("Satun Sayisi: ");
+            //sutun = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine();
+
+            //for (int i = 0; i < satir; i++)
+            //{
+            //    for (int j = 0; j < sutun; ++j)
+            //    {
+            //        Console.Write("*");
+            //    }
+            //    Console.WriteLine();
+
+            //}
+            //Console.ReadKey();
+
+            //byte sayi;
+            //Console.Write("Sayi Giriniz (0-255): ");
+            //sayi = Convert.ToByte(Console.ReadLine());
+
+            //for (int i = 8; i > 1; i--)
+            //{
+            //    byte And = 1;
+            //    for (int j = 1; j <= i-1; j++)
+            //    {
+            //        And *= 2;
+
+            //    }
+            //    byte bit = (byte)((sayi & And) >> i - 1);
+            //    Console.Write(bit);
+            //}
+            //Console.ReadKey();
+
+            //int Max = 0, Min = 100, Toplam = 0;
+            //int adet = 10;
+            //int Not;
+
+            //for (int i = 0; i < adet ;)
+            //{
+            //    Console.Write("Notu Gir: ");
+            //    Not = Convert.ToInt32(Console.ReadLine());
+            //    if (Not < 0 || Not > 100)
+            //    {
+            //        Console.WriteLine("Yanlış Not");
+            //    }
+            //    else
+            //    {
+            //        if (Not > Max)
+            //            Max = Not;
+            //        else if (Not < Min)
+            //            Min = Not;
+            //        Toplam += Not;
+            //        i++;                   
+            //    }
+            //}
+            //Console.WriteLine("En yüksek not {0}",Max);
+            //Console.WriteLine("En düşük not {0}",Min);
+
+            //float Ort = (float)Toplam / (float)adet;
+            //Console.WriteLine("Ort: {0}",Ort);
+
+            //Console.ReadKey(); 
+
         }
     }
 }
