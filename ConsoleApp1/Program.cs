@@ -487,7 +487,7 @@ namespace ConsoleApp1
             //float Ort = (float)Toplam / (float)adet;
             //Console.WriteLine("Ort: {0}",Ort);
 
-            //Console.ReadKey();                  
+            //Console.ReadKey();                   
                      
         }  
     } 
