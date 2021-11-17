@@ -355,7 +355,9 @@ namespace ConsoleApp1
 
             //int[] dzi = new int[5] { 1, 2, 3, 4, 5 };
 
-            //string[] gunler = new string[7];
+            string[] gunler = new string[7];
+
+
             //gunler[0] = "Pazartesi";
             //gunler[1] = "Salı";
             //gunler[2] = "Çarşamba";
@@ -370,7 +372,7 @@ namespace ConsoleApp1
             //int[,] notlar = new int[5, 3] { { 50, 60, 70 }, { 50, 45, 84 }, { 87, 48, 95 }, { 15, 100, 98 }, { 15, 78, 98 } };
             //int j = 0;
 
-            //for (int i = 0; i <=4; i++)
+            //for (int i = 0; i <=4; i++) 
 
             //{
             //    double ort = (notlar[i, j] + notlar[i, j + 1] + notlar[i, j + 2]) / 3;
@@ -440,7 +442,8 @@ namespace ConsoleApp1
             //    Console.WriteLine();
 
             //}
-            //Console.ReadKey();
+            //Console.ReadKey(); 
+
 
             //byte sayi;
             //Console.Write("Sayi Giriniz (0-255): ");
@@ -481,14 +484,15 @@ namespace ConsoleApp1
             //        i++;                   
             //    }
             //}
-            //Console.WriteLine("En yüksek not {0}",Max);
+            //Console.WriteLine("En yüksek not {0}",Max); 
             //Console.WriteLine("En düşük not {0}",Min);
 
-            //float Ort = (float)Toplam / (float)adet;
+            //float Ort = (float)Toplam / (float)adet; 
             //Console.WriteLine("Ort: {0}",Ort);
 
-            //Console.ReadKey();                                 
+            //Console.ReadKey();                                   
                         
-        }  
+        }   
+        
     } 
 }
