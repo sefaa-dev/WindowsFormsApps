@@ -7,7 +7,7 @@ namespace KapsamliHesapMakinesi
         static void Main(string[] args)
         {
         BASADON:
-            Console.WriteLine("1. Sayıyı Giriniz? ");         
+            Console.WriteLine("1. Sayıyı Giriniz? ");          
             double sayi1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("2. Sayıyı Giriniz? ");
             double sayi2 = Convert.ToDouble(Console.ReadLine());
