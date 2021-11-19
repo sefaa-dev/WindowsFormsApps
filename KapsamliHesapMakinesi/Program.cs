@@ -5,7 +5,7 @@ namespace KapsamliHesapMakinesi
     class Program
     {
         static void Main(string[] args)            
-        {
+        { 
         BASADON:
             Console.WriteLine("1. Sayıyı Giriniz? ");           
             double sayi1 = Convert.ToDouble(Console.ReadLine());
