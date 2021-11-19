@@ -4,7 +4,7 @@ namespace KapsamliHesapMakinesi
 {
     class Program
     {
-        static void Main(string[] args)     
+        static void Main(string[] args)      
         {
         BASADON:
             Console.WriteLine("1. Sayıyı Giriniz? ");           
