@@ -7,10 +7,15 @@ using System.Timers;
 
 namespace ConsoleApp1
 {
+
     class Program
     {
+
+       
         static void Main(string[] args)
         {
+            
+            
             ///STRİNG BİRLEŞTİRME///
 
             //string ogrno = "58";
