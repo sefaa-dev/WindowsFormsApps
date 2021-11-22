@@ -113,7 +113,7 @@ namespace GenelTekrar
 
             
         }  
-       
+        
 
     }
 }
