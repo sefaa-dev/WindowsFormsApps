@@ -75,7 +75,7 @@ namespace AdresDefteri
             ListeyiDoldur();
         }
 
-        private void btnSil_Click(object sender, EventArgs e)    
+        private void btnSil_Click(object sender, EventArgs e)     
         {
             if (seciliKisi == null) return;
 
