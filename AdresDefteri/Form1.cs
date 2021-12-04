@@ -77,8 +77,8 @@ namespace AdresDefteri
 
         private void btnSil_Click(object sender, EventArgs e)        
         {
-            if (seciliKisi == null) return;   
-             
+            if (seciliKisi == null) return;
+
             DialogResult cevap = MessageBox.Show($"{seciliKisi} yi silmek istiyor musunuz? ", "Silme Onayı", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 
             if (cevap == DialogResult.Yes)
