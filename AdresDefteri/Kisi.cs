@@ -12,7 +12,7 @@ namespace AdresDefteri
         {
             this.OlusturulmaZamani = DateTime.Now;
         }
-        private string _ad;
+        private string _ad;     
         private string _soyad;
         private string _tckn;
 
